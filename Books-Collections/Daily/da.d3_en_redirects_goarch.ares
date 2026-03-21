@@ -5,7 +5,6 @@ daForDay.text = da.d3_en_US_dedes.daForDay.text
 daOnDay.text = da.d3_en_US_dedes.daOnDay.text
 daCommemoration.text = da.d3_en_US_dedes.daCommemoration.text
 
-
 daVE.OnTheDayBefore.text = da.d3_en_US_dedes.daVE.OnTheDayBefore.text
 daVE.OnTheEveningBefore.text = da.d3_en_US_dedes.daVE.OnTheEveningBefore.text
 
