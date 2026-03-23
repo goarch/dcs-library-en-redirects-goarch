@@ -33,6 +33,12 @@ cl.bishop2.fimi.text = client_en_US_goa.cl.bishop2.fimi.text
 cl.double_commemoration.bishop1and2 = client_en_US_goa.cl.double_commemoration.bishop1and2
 cl.fimi.bishop1 = client_en_US_goa.cl.fimi.bishop1
 
+//Ordination parts in eu.ordination
+cl.ordinand.deacon.acc.text = client_en_US_goa.cl.ordinand.deacon.acc.text
+cl.ordinand.deacon.gen.text = client_en_US_goa.cl.ordinand.deacon.gen.text
+cl.ordinand.priest.acc.text = client_en_US_goa.cl.ordinand.priest.acc.text
+cl.ordinand.priest.gen.text = client_en_US_goa.cl.ordinand.priest.gen.text
+
 //Institutional petition
 cl.institution.pet08.incipit = client_en_US_goa.cl.institution.pet08.incipit
 cl.institution.pet08.text = client_en_US_goa.cl.institution.pet08.text
