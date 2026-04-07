@@ -40,6 +40,12 @@ cl.ordinand.deacon.gen.text = client_en_US_goa.cl.ordinand.deacon.gen.text
 cl.ordinand.priest.acc.text = client_en_US_goa.cl.ordinand.priest.acc.text
 cl.ordinand.priest.gen.text = client_en_US_goa.cl.ordinand.priest.gen.text
 
+cl.conVE.SticBoth.churchname.text = client_en_US_goa.cl.conVE.SticBoth.churchname.text
+cl.consecration.name = client_en_US_goa.cl.consecration.name
+cl.consecration.prayer1 = client_en_US_goa.cl.consecration.prayer1
+cl.consecration.greatlitany.finalpetition.name = client_en_US_goa.cl.consecration.greatlitany.finalpetition.name
+cl.relic_saints.text = client_en_US_goa.cl.relic_saints.text
+
 //Institutional petition
 cl.institution.pet08.incipit = client_en_US_goa.cl.institution.pet08.incipit
 cl.institution.pet08.text = client_en_US_goa.cl.institution.pet08.text
@@ -59,11 +65,6 @@ cl.Kontakion1.title = client_en_US_goa.cl.Kontakion1.title
 cl.Kontakion1.mode = client_en_US_goa.cl.Kontakion1.mode
 cl.Kontakion1.melody = client_en_US_goa.cl.Kontakion1.melody
 cl.Kontakion1.text = client_en_US_goa.cl.Kontakion1.text
-
-cl.conVE.SticBoth.churchname.text = client_en_US_goa.cl.conVE.SticBoth.churchname.text
-cl.consecration.name = client_en_US_goa.cl.consecration.name
-cl.consecration.prayer1 = client_en_US_goa.cl.consecration.prayer1
-cl.consecration.greatlitany.finalpetition.name = client_en_US_goa.cl.consecration.greatlitany.finalpetition.name
 
 cl.localpatronsaint2.supplication = client_en_US_goa.cl.localpatronsaint2.supplication
 cl.localpatronsaint2.dismissal = client_en_US_goa.cl.localpatronsaint2.dismissal
