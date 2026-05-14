@@ -199,3 +199,6 @@ ru.transfer.service.date.jun04 = rubrical_en_US_dedes.ru.transfer.service.date.j
 ru.transfer.service.date.jun24 = rubrical_en_US_dedes.ru.transfer.service.date.jun24
 
 ru.unavailable.octoechos = rubrical_en_US_goadedes.ru.unavailable.octoechos
+
+//for service builder
+ru.sb.InPlaceOfRightChoir = rubrical_en_US_goa.ru.sb.InPlaceOfRightChoir

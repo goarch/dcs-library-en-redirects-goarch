@@ -47,6 +47,7 @@ cl.double_commemoration.bishop1and2 = client_en_US_goa.cl.double_commemoration.b
 cl.fimi.bishop1 = client_en_US_goa.cl.fimi.bishop1
 
 //Ordination parts in eu.ordination
+cl.ordinand.subdeacon.acc.text = client_en_US_goa.cl.ordinand.subdeacon.acc.text
 cl.ordinand.deacon.acc.text = client_en_US_goa.cl.ordinand.deacon.acc.text
 cl.ordinand.deacon.gen.text = client_en_US_goa.cl.ordinand.deacon.gen.text
 cl.ordinand.priest.acc.text = client_en_US_goa.cl.ordinand.priest.acc.text
