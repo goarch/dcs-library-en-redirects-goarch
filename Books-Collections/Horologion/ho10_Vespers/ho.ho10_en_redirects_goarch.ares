@@ -2,24 +2,24 @@ A_Resource_Whose_Name = ho.ho10_en_redirects_goarch
 
 hoVE.title = ho.ho10_en_US_dedes.hoVE.title
 
-R01 = ho.ho10_en_US_dedes.R01
-R02 = ho.ho10_en_US_dedes.R02
+R01.rubric = ho.ho10_en_US_dedes.R01.rubric
+R02.rubric = ho.ho10_en_US_dedes.R02.rubric
 hoVE.Ps103.text = ho.ho10_en_US_dedes.hoVE.Ps103.text
 hoVE.MM.Anoixantaria.text = ho.ho10_en_US_dedes.hoVE.MM.Anoixantaria.text
 hoVE.MM.Kathisma11.text = ho.ho10_en_US_dedes.hoVE.MM.Kathisma11.text
 hoVE.MM.Kathisma11.selection01.text = ho.ho10_en_US_dedes.hoVE.MM.Kathisma11.selection01.text
-R03 = ho.ho10_en_US_dedes.R03
-R04 = ho.ho10_en_US_dedes.R04
-R05 = ho.ho10_en_US_dedes.R05
-R06 = ho.ho10_en_US_dedes.R06
-R07 = ho.ho10_en_US_dedes.R07
-R08 = ho.ho10_en_US_dedes.R08
-R09 = ho.ho10_en_US_dedes.R09
+R03.rubric = ho.ho10_en_US_dedes.R03.rubric
+R04.rubric = ho.ho10_en_US_dedes.R04.rubric
+R05.rubric = ho.ho10_en_US_dedes.R05.rubric
+R06.rubric = ho.ho10_en_US_dedes.R06.rubric
+R07.rubric = ho.ho10_en_US_dedes.R07.rubric
+R08.rubric = ho.ho10_en_US_dedes.R08.rubric
+R09.rubric = ho.ho10_en_US_dedes.R09.rubric
 hoVE.FosIlaron.title = ho.ho10_en_US_dedes.hoVE.FosIlaron.title
-R10 = ho.ho10_en_US_dedes.R10
+R10.rubric = ho.ho10_en_US_dedes.R10.rubric
 hoVE.FosIlaron.incipit = ho.ho10_en_US_dedes.hoVE.FosIlaron.incipit
 hoVE.FosIlaron.text = ho.ho10_en_US_dedes.hoVE.FosIlaron.text
-R11 = ho.ho10_en_US_dedes.R11
+R11.rubric = ho.ho10_en_US_dedes.R11.rubric
 
 hoVE.SundayEvening.title = ho.ho10_en_US_dedes.hoVE.SundayEvening.title
 hoVE.MM.SundayProkeimenon.text = ho.ho10_en_US_dedes.hoVE.MM.SundayProkeimenon.text
@@ -55,9 +55,9 @@ hoVE.MM.BrightWednesdayEveningProkeimenon.text = ho.ho10_en_US_dedes.hoVE.MM.Bri
 hoVE.MM.BrightThursdayEveningProkeimenon.text = ho.ho10_en_US_dedes.hoVE.MM.BrightThursdayEveningProkeimenon.text
 hoVE.MM.BrightFridayEveningProkeimenon.text = ho.ho10_en_US_dedes.hoVE.MM.BrightFridayEveningProkeimenon.text
 
-R12 = ho.ho10_en_US_dedes.R12
-R13 = ho.ho10_en_US_dedes.R13
-R14 = ho.ho10_en_US_dedes.R14
+R12.rubric = ho.ho10_en_US_dedes.R12.rubric
+R13.rubric = ho.ho10_en_US_dedes.R13.rubric
+R14.rubric = ho.ho10_en_US_dedes.R14.rubric
 hoVE.MondayAlleluia.title = ho.ho10_en_US_dedes.hoVE.MondayAlleluia.title
 hoVE.MondayAlleluia.text = ho.ho10_en_US_dedes.hoVE.MondayAlleluia.text
 
@@ -70,16 +70,16 @@ hoVE.WednesdayAlleluia.text = ho.ho10_en_US_dedes.hoVE.WednesdayAlleluia.text
 hoVE.FridayAlleluia.title = ho.ho10_en_US_dedes.hoVE.FridayAlleluia.title
 hoVE.FridayAlleluia.text = ho.ho10_en_US_dedes.hoVE.FridayAlleluia.text
 
-R15 = ho.ho10_en_US_dedes.R15
-R16 = ho.ho10_en_US_dedes.R16
+R15.rubric = ho.ho10_en_US_dedes.R15.rubric
+R16.rubric = ho.ho10_en_US_dedes.R16.rubric
 //This Prayer is also in the Small Doxology, at Matins, Compline etc. with "day" and"night"
 hoVE.Prayer_Kataxioson.incipit = ho.ho10_en_US_holycross.hoVE.Prayer_Kataxioson.incipit
 hoVE.Prayer_Kataxioson.text = ho.ho10_en_US_holycross.hoVE.Prayer_Kataxioson.text
-R17 = ho.ho10_en_US_dedes.R17
-R18 = ho.ho10_en_US_dedes.R18
-R19 = ho.ho10_en_US_dedes.R19
-R20 = ho.ho10_en_US_dedes.R20
-R21 = ho.ho10_en_US_dedes.R21
+R17.rubric = ho.ho10_en_US_dedes.R17.rubric
+R18.rubric = ho.ho10_en_US_dedes.R18.rubric
+R19.rubric = ho.ho10_en_US_dedes.R19.rubric
+R20.rubric = ho.ho10_en_US_dedes.R20.rubric
+R21.rubric = ho.ho10_en_US_dedes.R21.rubric
 hoVE.LentApolytikion1.mode = ho.ho10_en_US_dedes.hoVE.LentApolytikion1.mode
 hoVE.LentApolytikion1.incipit = ho.ho10_en_US_dedes.hoVE.LentApolytikion1.incipit
 hoVE.LentApolytikion1.text = ho.ho10_en_US_dedes.hoVE.LentApolytikion1.text
@@ -93,11 +93,11 @@ hoVE.LentApolytikion4.note = ho.ho10_en_US_dedes.hoVE.LentApolytikion4.note
 hoVE.LentApolytikion4.mode = ho.ho10_en_US_dedes.hoVE.LentApolytikion4.mode
 hoVE.LentApolytikion4.incipit = ho.ho10_en_US_dedes.hoVE.LentApolytikion4.incipit
 hoVE.LentApolytikion4.text = ho.ho10_en_US_dedes.hoVE.LentApolytikion4.text
-R22 = ho.ho10_en_US_dedes.R22
-R23 = ho.ho10_en_US_dedes.R23
-R24 = ho.ho10_en_US_dedes.R24
-R25 = ho.ho10_en_US_dedes.R25
-R26 = ho.ho10_en_US_dedes.R26
+R22.rubric = ho.ho10_en_US_dedes.R22.rubric
+R23.rubric = ho.ho10_en_US_dedes.R23.rubric
+R24.rubric = ho.ho10_en_US_dedes.R24.rubric
+R25.rubric = ho.ho10_en_US_dedes.R25.rubric
+R26.rubric = ho.ho10_en_US_dedes.R26.rubric
 
 //Lity
 hoVE.MM.LityKyrieEleison.text = ho.ho10_en_US_dedes.hoVE.MM.LityKyrieEleison.text

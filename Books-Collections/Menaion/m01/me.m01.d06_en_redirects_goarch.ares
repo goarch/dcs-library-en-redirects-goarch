@@ -1052,7 +1052,7 @@ meLI.TheotokosHymn.text = me.m01.d06_en_US_dedes.meLI.TheotokosHymn.text
 
 meLI.MM.CommunionHymn.text = me.m01.d06_en_US_dedes.meLI.MM.CommunionHymn.text
 
-meLI.R01 = me.m01.d06_en_US_goadedes.meLI.R01
+meLI.R01.rubric = me.m01.d06_en_US_goadedes.meLI.R01.rubric
 
 meLI.Megalynarion.text = me.m01.d06_en_US_dedes.meLI.Megalynarion.text
 

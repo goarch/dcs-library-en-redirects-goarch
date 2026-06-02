@@ -134,7 +134,7 @@ meMA.Kathisma2T.melody = me.m07.d17_en_US_goadedes.meMA.Kathisma2T.melody
 meMA.Kathisma2T.incipit = me.m07.d17_en_US_goadedes.meMA.Kathisma2T.incipit
 meMA.Kathisma2T.text = me.m07.d17_en_US_goadedes.meMA.Kathisma2T.text
 
-meMA.R01 = me.m07.d17_en_US_dedes.meMA.R01
+meMA.R01.rubric = me.m07.d17_en_US_dedes.meMA.R01.rubric
 
 meMA.Kathisma31.mode = me.m07.d17_en_US_dedes.meMA.Kathisma31.mode
 meMA.Kathisma31.greekmelody = me.m07.d17_en_US_dedes.meMA.Kathisma31.greekmelody
@@ -146,7 +146,7 @@ meMA.Kathisma3T.melody = me.m07.d17_en_US_dedes.meMA.Kathisma3T.melody
 meMA.Kathisma3T.incipit = me.m07.d17_en_US_dedes.meMA.Kathisma3T.incipit
 meMA.Kathisma3T.text = me.m07.d17_en_US_dedes.meMA.Kathisma3T.text
 
-meMA.R02 = me.m07.d17_en_US_dedes.meMA.R02
+meMA.R02.rubric = me.m07.d17_en_US_dedes.meMA.R02.rubric
 
 meMA.PostGospelGlory.mode = me.m07.d17_en_US_dedes.meMA.PostGospelGlory.mode
 meMA.PostGospelGlory.melody = me.m07.d17_en_US_dedes.meMA.PostGospelGlory.melody
