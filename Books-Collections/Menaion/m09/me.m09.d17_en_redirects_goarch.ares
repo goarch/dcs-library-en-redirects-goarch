@@ -72,9 +72,9 @@ meVE.Aposticha2.incipit = me.m09.d17_en_US_dedes.meVE.Aposticha2.incipit
 meVE.Aposticha2.text = me.m09.d17_en_US_dedes.meVE.Aposticha2.text
 
 meVE.Aposticha3.mode = me.m09.d17_en_US_dedes.meVE.Aposticha3.mode
-meVE.Aposticha3.melody = me.m09.d17_en_US_oca.meVE.Aposticha3.melody
-meVE.Aposticha3.incipit = me.m09.d17_en_US_oca.meVE.Aposticha3.incipit
-meVE.Aposticha3.text = me.m09.d17_en_US_oca.meVE.Aposticha3.text
+meVE.Aposticha3.melody = me.m09.d17_en_US_dedes.meVE.Aposticha3.melody
+meVE.Aposticha3.incipit = me.m09.d17_en_US_dedes.meVE.Aposticha3.incipit
+meVE.Aposticha3.text = me.m09.d17_en_US_dedes.meVE.Aposticha3.text
 
 meVE.AposGlory.mode = me.m09.d17_en_US_dedes.meVE.AposGlory.mode
 meVE.AposGlory.melody = me.m09.d17_en_US_dedes.meVE.AposGlory.melody
