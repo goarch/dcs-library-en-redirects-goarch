@@ -354,10 +354,10 @@ meMA.Exaposteilarion1.melody = me.m09.d20_en_US_dedes.meMA.Exaposteilarion1.melo
 meMA.Exaposteilarion1.incipit = me.m09.d20_en_US_dedes.meMA.Exaposteilarion1.incipit
 meMA.Exaposteilarion1.text = me.m09.d20_en_US_dedes.meMA.Exaposteilarion1.text
 
-meMA.ExapStavrotheotokion.mode = me.m09.d20_en_US_dedes.meMA.ExapStavrotheotokion.mode
-meMA.ExapStavrotheotokion.melody = me.m09.d20_en_US_oca.meMA.ExapStavrotheotokion.melody
-meMA.ExapStavrotheotokion.incipit = me.m09.d20_en_US_oca.meMA.ExapStavrotheotokion.incipit
-meMA.ExapStavrotheotokion.text = me.m09.d20_en_US_oca.meMA.ExapStavrotheotokion.text
+meMA.ExapStavrotheotokion.mode = me.m09.d20_en_US_goadedes.meMA.ExapStavrotheotokion.mode
+meMA.ExapStavrotheotokion.melody = me.m09.d20_en_US_goadedes.meMA.ExapStavrotheotokion.melody
+meMA.ExapStavrotheotokion.incipit = me.m09.d20_en_US_goadedes.meMA.ExapStavrotheotokion.incipit
+meMA.ExapStavrotheotokion.text = me.m09.d20_en_US_goadedes.meMA.ExapStavrotheotokion.text
 
 meMA.Lauds1.poet = me.m09.d20_en_US_dedes.meMA.Lauds1.poet
 meMA.Lauds1.mode = me.m09.d20_en_US_dedes.meMA.Lauds1.mode

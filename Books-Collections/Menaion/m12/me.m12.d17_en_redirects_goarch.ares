@@ -550,21 +550,21 @@ meMA.ExapTheotokion.melody = me.m12.d17_en_US_dedes.meMA.ExapTheotokion.melody
 meMA.ExapTheotokion.incipit = me.m12.d17_en_US_dedes.meMA.ExapTheotokion.incipit
 meMA.ExapTheotokion.text = me.m12.d17_en_US_dedes.meMA.ExapTheotokion.text
 
-meMA.Aposticha1.mode = me.m12.d17_en_US_dedes.meMA.Aposticha1.mode
-meMA.Aposticha1.greekmelody = me.m12.d17_en_US_dedes.meMA.Aposticha1.greekmelody
-meMA.Aposticha1.melody = me.m12.d17_en_US_oca.meMA.Aposticha1.melody
-meMA.Aposticha1.incipit = me.m12.d17_en_US_oca.meMA.Aposticha1.incipit
-meMA.Aposticha1.text = me.m12.d17_en_US_oca.meMA.Aposticha1.text
+meMA.Aposticha1.mode = me.m12.d17_en_US_goadedes.meMA.Aposticha1.mode
+meMA.Aposticha1.greekmelody = me.m12.d17_en_US_goadedes.meMA.Aposticha1.greekmelody
+meMA.Aposticha1.melody = me.m12.d17_en_US_goadedes.meMA.Aposticha1.melody
+meMA.Aposticha1.incipit = me.m12.d17_en_US_goadedes.meMA.Aposticha1.incipit
+meMA.Aposticha1.text = me.m12.d17_en_US_goadedes.meMA.Aposticha1.text
 
 meMA.Aposticha2.mode = me.m12.d17_en_US_dedes.meMA.Aposticha2.mode
-meMA.Aposticha2.melody = me.m12.d17_en_US_oca.meMA.Aposticha2.melody
-meMA.Aposticha2.incipit = me.m12.d17_en_US_oca.meMA.Aposticha2.incipit
-meMA.Aposticha2.text = me.m12.d17_en_US_oca.meMA.Aposticha2.text
+meMA.Aposticha2.melody = me.m12.d17_en_US_dedes.meMA.Aposticha2.melody
+meMA.Aposticha2.incipit = me.m12.d17_en_US_dedes.meMA.Aposticha2.incipit
+meMA.Aposticha2.text = me.m12.d17_en_US_dedes.meMA.Aposticha2.text
 
 meMA.Aposticha3.mode = me.m12.d17_en_US_dedes.meMA.Aposticha3.mode
-meMA.Aposticha3.melody = me.m12.d17_en_US_oca.meMA.Aposticha3.melody
-meMA.Aposticha3.incipit = me.m12.d17_en_US_oca.meMA.Aposticha3.incipit
-meMA.Aposticha3.text = me.m12.d17_en_US_oca.meMA.Aposticha3.text
+meMA.Aposticha3.melody = me.m12.d17_en_US_dedes.meMA.Aposticha3.melody
+meMA.Aposticha3.incipit = me.m12.d17_en_US_dedes.meMA.Aposticha3.incipit
+meMA.Aposticha3.text = me.m12.d17_en_US_dedes.meMA.Aposticha3.text
 
 meMA.AposGlory.mode = me.m12.d17_en_US_dedes.meMA.AposGlory.mode
 meMA.AposGlory.melody = me.m12.d17_en_US_dedes.meMA.AposGlory.melody
@@ -728,17 +728,17 @@ alt1.meMA.Kathisma23.melody = me.m12.d17_en_US_goadedes.alt1.meMA.Kathisma23.mel
 alt1.meMA.Kathisma23.incipit = me.m12.d17_en_US_goadedes.alt1.meMA.Kathisma23.incipit
 alt1.meMA.Kathisma23.text = me.m12.d17_en_US_goadedes.alt1.meMA.Kathisma23.text
 
-alt1.meMA.Kathisma31.mode = me.m12.d17_en_US_dedes.alt1.meMA.Kathisma31.mode
-alt1.meMA.Kathisma31.greekmelody = me.m12.d17_en_US_dedes.alt1.meMA.Kathisma31.greekmelody
-alt1.meMA.Kathisma31.melody = me.m12.d17_en_US_dedes.alt1.meMA.Kathisma31.melody
-alt1.meMA.Kathisma31.incipit = me.m12.d17_en_US_dedes.alt1.meMA.Kathisma31.incipit
-alt1.meMA.Kathisma31.text = me.m12.d17_en_US_dedes.alt1.meMA.Kathisma31.text
+alt1.meMA.Kathisma31.mode = me.m12.d17_en_US_goadedes.alt1.meMA.Kathisma31.mode
+alt1.meMA.Kathisma31.greekmelody = me.m12.d17_en_US_goadedes.alt1.meMA.Kathisma31.greekmelody
+alt1.meMA.Kathisma31.melody = me.m12.d17_en_US_goadedes.alt1.meMA.Kathisma31.melody
+alt1.meMA.Kathisma31.incipit = me.m12.d17_en_US_goadedes.alt1.meMA.Kathisma31.incipit
+alt1.meMA.Kathisma31.text = me.m12.d17_en_US_goadedes.alt1.meMA.Kathisma31.text
 
-alt1.meMA.Kathisma32.mode = me.m12.d17_en_US_dedes.alt1.meMA.Kathisma32.mode
-alt1.meMA.Kathisma32.greekmelody = me.m12.d17_en_US_dedes.alt1.meMA.Kathisma32.greekmelody
-alt1.meMA.Kathisma32.melody = me.m12.d17_en_US_dedes.alt1.meMA.Kathisma32.melody
-alt1.meMA.Kathisma32.incipit = me.m12.d17_en_US_dedes.alt1.meMA.Kathisma32.incipit
-alt1.meMA.Kathisma32.text = me.m12.d17_en_US_dedes.alt1.meMA.Kathisma32.text
+alt1.meMA.Kathisma32.mode = me.m12.d17_en_US_goadedes.alt1.meMA.Kathisma32.mode
+alt1.meMA.Kathisma32.greekmelody = me.m12.d17_en_US_goadedes.alt1.meMA.Kathisma32.greekmelody
+alt1.meMA.Kathisma32.melody = me.m12.d17_en_US_goadedes.alt1.meMA.Kathisma32.melody
+alt1.meMA.Kathisma32.incipit = me.m12.d17_en_US_goadedes.alt1.meMA.Kathisma32.incipit
+alt1.meMA.Kathisma32.text = me.m12.d17_en_US_goadedes.alt1.meMA.Kathisma32.text
 
 alt1.meMA.PostGospelGlory.mode = me.m12.d17_en_US_dedes.alt1.meMA.PostGospelGlory.mode
 alt1.meMA.PostGospelGlory.melody = me.m12.d17_en_US_dedes.alt1.meMA.PostGospelGlory.melody
