@@ -39,10 +39,10 @@ meVE.Stichera03.melody = me.m07.d02_en_US_goadedes.meVE.Stichera03.melody
 meVE.Stichera03.incipit = me.m07.d02_en_US_goadedes.meVE.Stichera03.incipit
 meVE.Stichera03.text = me.m07.d02_en_US_goadedes.meVE.Stichera03.text
 
-meVE.SticGlory.mode = me.m07.d02_en_US_dedes.meVE.SticGlory.mode
-meVE.SticGlory.melody = me.m07.d02_en_US_dedes.meVE.SticGlory.melody
-meVE.SticGlory.incipit = me.m07.d02_en_US_oca.meVE.SticGlory.incipit
-meVE.SticGlory.text = me.m07.d02_en_US_oca.meVE.SticGlory.text
+meVE.SticGlory.mode = me.m07.d02_en_US_goadedes.meVE.SticGlory.mode
+meVE.SticGlory.melody = me.m07.d02_en_US_goadedes.meVE.SticGlory.melody
+meVE.SticGlory.incipit = me.m07.d02_en_US_goadedes.meVE.SticGlory.incipit
+meVE.SticGlory.text = me.m07.d02_en_US_goadedes.meVE.SticGlory.text
 
 meVE.Aposticha1.mode = me.m07.d02_en_US_dedes.meVE.Aposticha1.mode
 meVE.Aposticha1.greekmelody = me.m07.d02_en_US_dedes.meVE.Aposticha1.greekmelody
@@ -581,10 +581,10 @@ meMA.Lauds3.melody = me.m07.d02_en_US_dedes.meMA.Lauds3.melody
 meMA.Lauds3.incipit = me.m07.d02_en_US_dedes.meMA.Lauds3.incipit
 meMA.Lauds3.text = me.m07.d02_en_US_dedes.meMA.Lauds3.text
 
-meMA.LaudsGlory.mode = me.m07.d02_en_US_dedes.meMA.LaudsGlory.mode
-meMA.LaudsGlory.melody = me.m07.d02_en_US_dedes.meMA.LaudsGlory.melody
-meMA.LaudsGlory.incipit = me.m07.d02_en_US_oca.meMA.LaudsGlory.incipit
-meMA.LaudsGlory.text = me.m07.d02_en_US_oca.meMA.LaudsGlory.text
+meMA.LaudsGlory.mode = me.m07.d02_en_US_goadedes.meMA.LaudsGlory.mode
+meMA.LaudsGlory.melody = me.m07.d02_en_US_goadedes.meMA.LaudsGlory.melody
+meMA.LaudsGlory.incipit = me.m07.d02_en_US_goadedes.meMA.LaudsGlory.incipit
+meMA.LaudsGlory.text = me.m07.d02_en_US_goadedes.meMA.LaudsGlory.text
 
 meMA.MM.Lauds1123as5678.text = me.m07.d02_en_US_dedes.meMA.MM.Lauds1123as5678.text
 
