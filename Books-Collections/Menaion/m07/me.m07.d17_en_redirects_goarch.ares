@@ -39,10 +39,10 @@ meVE.Stichera03.melody = me.m07.d17_en_US_goadedes.meVE.Stichera03.melody
 meVE.Stichera03.incipit = me.m07.d17_en_US_goadedes.meVE.Stichera03.incipit
 meVE.Stichera03.text = me.m07.d17_en_US_goadedes.meVE.Stichera03.text
 
-meVE.SticGlory.mode = me.m07.d17_en_US_dedes.meVE.SticGlory.mode
-meVE.SticGlory.melody = me.m07.d17_en_US_dedes.meVE.SticGlory.melody
-meVE.SticGlory.incipit = me.m07.d17_en_US_oca.meVE.SticGlory.incipit
-meVE.SticGlory.text = me.m07.d17_en_US_oca.meVE.SticGlory.text
+meVE.SticGlory.mode = me.m07.d17_en_US_goadedes.meVE.SticGlory.mode
+meVE.SticGlory.melody = me.m07.d17_en_US_goadedes.meVE.SticGlory.melody
+meVE.SticGlory.incipit = me.m07.d17_en_US_goadedes.meVE.SticGlory.incipit
+meVE.SticGlory.text = me.m07.d17_en_US_goadedes.meVE.SticGlory.text
 
 meVE.SticTheotokion.mode = me.m07.d17_en_US_goadedes.meVE.SticTheotokion.mode
 meVE.SticTheotokion.melody = me.m07.d17_en_US_goadedes.meVE.SticTheotokion.melody
