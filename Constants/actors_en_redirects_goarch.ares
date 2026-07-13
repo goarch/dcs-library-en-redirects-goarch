@@ -80,14 +80,10 @@ ac.LC.Archbishop = actors_en_US_goa.ac.LC.Archbishop
 ac.LC.Hierarch = actors_en_US_goa.ac.LC.Hierarch
 ac.LC.Deacon = actors_en_US_goa.ac.LC.Deacon
 
-ac.sb.BlCh = actors_en_US_goa.ac.sb.BlCh
-ac.sb.DeBl = actors_en_US_goa.ac.sb.DeBl
-ac.sb.BlHi = actors_en_US_goa.ac.sb.BlHi
-
-ac.sb.ChCl = actors_en_US_goa.ac.sb.ChCl
 ac.sb.ChBl = actors_en_US_goa.ac.sb.ChBl
 ac.sb.ChHi = actors_en_US_goa.ac.sb.ChHi
 ac.sb.ClHi = actors_en_US_goa.ac.sb.ClHi
+ac.sb.DeBl = actors_en_US_goa.ac.sb.DeBl
 ac.sb.DePe = actors_en_US_goa.ac.sb.DePe
 ac.sb.DePr= actors_en_US_goa.ac.sb.DePr
 ac.sb.PrCl = actors_en_US_goa.ac.sb.PrCl
