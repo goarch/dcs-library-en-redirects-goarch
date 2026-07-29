@@ -120,11 +120,11 @@ meMA.Kathisma21.melody = me.m12.d09_en_US_dedes.meMA.Kathisma21.melody
 meMA.Kathisma21.incipit = me.m12.d09_en_US_dedes.meMA.Kathisma21.incipit
 meMA.Kathisma21.text = me.m12.d09_en_US_dedes.meMA.Kathisma21.text
 
-meMA.Kathisma31.mode = me.m12.d09_en_US_dedes.meMA.Kathisma31.mode
-meMA.Kathisma31.greekmelody = me.m12.d09_en_US_dedes.meMA.Kathisma31.greekmelody
-meMA.Kathisma31.melody = me.m12.d09_en_US_dedes.meMA.Kathisma31.melody
-meMA.Kathisma31.incipit = me.m12.d09_en_US_dedes.meMA.Kathisma31.incipit
-meMA.Kathisma31.text = me.m12.d09_en_US_dedes.meMA.Kathisma31.text
+meMA.Kathisma31.mode = me.m12.d09_en_US_goadedes.meMA.Kathisma31.mode
+meMA.Kathisma31.greekmelody = me.m12.d09_en_US_goadedes.meMA.Kathisma31.greekmelody
+meMA.Kathisma31.melody = me.m12.d09_en_US_goadedes.meMA.Kathisma31.melody
+meMA.Kathisma31.incipit = me.m12.d09_en_US_goadedes.meMA.Kathisma31.incipit
+meMA.Kathisma31.text = me.m12.d09_en_US_goadedes.meMA.Kathisma31.text
 
 meMA.C1.poet = me.m12.d09_en_US_goadedes.meMA.C1.poet
 meMA.C1.title = me.m12.d09_en_US_goadedes.meMA.C1.title
