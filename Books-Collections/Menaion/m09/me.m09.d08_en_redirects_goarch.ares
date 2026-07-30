@@ -108,11 +108,11 @@ meVE.SticGlory.melody = me.m09.d08_en_US_dedes.meVE.SticGlory.melody
 meVE.SticGlory.incipit = me.m09.d08_en_US_andronache.meVE.SticGlory.incipit
 meVE.SticGlory.text = me.m09.d08_en_US_andronache.meVE.SticGlory.text
 
-meVE.Lity1.poet = me.m09.d08_en_US_dedes.meVE.Lity1.poet
-meVE.Lity1.mode = me.m09.d08_en_US_dedes.meVE.Lity1.mode
-meVE.Lity1.melody = me.m09.d08_en_US_dedes.meVE.Lity1.melody
-meVE.Lity1.incipit = me.m09.d08_en_US_oca.meVE.Lity1.incipit
-meVE.Lity1.text = me.m09.d08_en_US_oca.meVE.Lity1.text
+meVE.Lity1.poet = me.m09.d08_en_US_goadedes.meVE.Lity1.poet
+meVE.Lity1.mode = me.m09.d08_en_US_goadedes.meVE.Lity1.mode
+meVE.Lity1.melody = me.m09.d08_en_US_goadedes.meVE.Lity1.melody
+meVE.Lity1.incipit = me.m09.d08_en_US_goadedes.meVE.Lity1.incipit
+meVE.Lity1.text = me.m09.d08_en_US_goadedes.meVE.Lity1.text
 
 meVE.Lity2.mode = me.m09.d08_en_US_dedes.meVE.Lity2.mode
 meVE.Lity2.melody = me.m09.d08_en_US_dedes.meVE.Lity2.melody
