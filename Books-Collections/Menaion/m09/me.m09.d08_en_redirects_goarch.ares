@@ -43,10 +43,10 @@ meSV.Stichera4.melody = me.m09.d08_en_US_goadedes.meSV.Stichera4.melody
 meSV.Stichera4.incipit = me.m09.d08_en_US_goadedes.meSV.Stichera4.incipit
 meSV.Stichera4.text = me.m09.d08_en_US_goadedes.meSV.Stichera4.text
 
-meSV.SticGlory.mode = me.m09.d08_en_US_dedes.meSV.SticGlory.mode
-meSV.SticGlory.melody = me.m09.d08_en_US_dedes.meSV.SticGlory.melody
-meSV.SticGlory.incipit = me.m09.d08_en_US_dedes.meSV.SticGlory.incipit
-meSV.SticGlory.text = me.m09.d08_en_US_dedes.meSV.SticGlory.text
+meSV.SticGlory.mode = me.m09.d08_en_US_goadedes.meSV.SticGlory.mode
+meSV.SticGlory.melody = me.m09.d08_en_US_goadedes.meSV.SticGlory.melody
+meSV.SticGlory.incipit = me.m09.d08_en_US_goadedes.meSV.SticGlory.incipit
+meSV.SticGlory.text = me.m09.d08_en_US_goadedes.meSV.SticGlory.text
 
 meSV.Aposticha1.mode = me.m09.d08_en_US_dedes.meSV.Aposticha1.mode
 meSV.Aposticha1.melody = me.m09.d08_en_US_dedes.meSV.Aposticha1.melody
@@ -114,16 +114,16 @@ meVE.Lity1.melody = me.m09.d08_en_US_goadedes.meVE.Lity1.melody
 meVE.Lity1.incipit = me.m09.d08_en_US_goadedes.meVE.Lity1.incipit
 meVE.Lity1.text = me.m09.d08_en_US_goadedes.meVE.Lity1.text
 
-meVE.Lity2.mode = me.m09.d08_en_US_dedes.meVE.Lity2.mode
-meVE.Lity2.melody = me.m09.d08_en_US_dedes.meVE.Lity2.melody
-meVE.Lity2.incipit = me.m09.d08_en_US_oca.meVE.Lity2.incipit
-meVE.Lity2.text = me.m09.d08_en_US_oca.meVE.Lity2.text
+meVE.Lity2.mode = me.m09.d08_en_US_goadedes.meVE.Lity2.mode
+meVE.Lity2.melody = me.m09.d08_en_US_goadedes.meVE.Lity2.melody
+meVE.Lity2.incipit = me.m09.d08_en_US_goadedes.meVE.Lity2.incipit
+meVE.Lity2.text = me.m09.d08_en_US_goadedes.meVE.Lity2.text
 
-meVE.Lity3.poet = me.m09.d08_en_US_dedes.meVE.Lity3.poet
-meVE.Lity3.mode = me.m09.d08_en_US_dedes.meVE.Lity3.mode
-meVE.Lity3.melody = me.m09.d08_en_US_dedes.meVE.Lity3.melody
-meVE.Lity3.incipit = me.m09.d08_en_US_oca.meVE.Lity3.incipit
-meVE.Lity3.text = me.m09.d08_en_US_oca.meVE.Lity3.text
+meVE.Lity3.poet = me.m09.d08_en_US_goadedes.meVE.Lity3.poet
+meVE.Lity3.mode = me.m09.d08_en_US_goadedes.meVE.Lity3.mode
+meVE.Lity3.melody = me.m09.d08_en_US_goadedes.meVE.Lity3.melody
+meVE.Lity3.incipit = me.m09.d08_en_US_goadedes.meVE.Lity3.incipit
+meVE.Lity3.text = me.m09.d08_en_US_goadedes.meVE.Lity3.text
 
 meVE.Lity4.mode = me.m09.d08_en_US_dedes.meVE.Lity4.mode
 meVE.Lity4.melody = me.m09.d08_en_US_dedes.meVE.Lity4.melody
