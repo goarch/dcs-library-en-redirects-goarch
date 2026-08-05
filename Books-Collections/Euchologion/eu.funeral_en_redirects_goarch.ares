@@ -6,7 +6,8 @@ euFUN.translator =
 
 euFUN.Key0100.title = eu.funeral_en_US_goa.euFUN.Key0100.title
 
-euFUN.Key0101.mode = eu.funeral_en_US_holycross.euFUN.Key0101.mode
+euFUN.Key0101.title = eu.funeral_en_US_goa.euFUN.Key0101.title
+euFUN.Key0101.mode = eu.funeral_en_US_goa.euFUN.Key0101.mode
 euFUN.Key0101.incipit = eu.funeral_en_US_goa.euFUN.Key0101.incipit
 euFUN.Key0101.text = eu.funeral_en_US_goa.euFUN.Key0101.text
 euFUN.Key0102.incipit = eu.funeral_en_US_goa.euFUN.Key0102.incipit
