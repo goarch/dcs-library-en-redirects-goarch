@@ -90,9 +90,9 @@ meVE.Stichera04.melody = me.m09.d08_en_US_duvall.meVE.Stichera04.melody
 meVE.Stichera04.incipit = me.m09.d08_en_US_duvall.meVE.Stichera04.incipit
 meVE.Stichera04.text = me.m09.d08_en_US_duvall.meVE.Stichera04.text
 
-meVE.Stichera05.mode = me.m09.d08_en_US_dedes.meVE.Stichera05.mode
-meVE.Stichera05.melody = me.m09.d08_en_US_dedes.meVE.Stichera05.melody
-meVE.Stichera05.incipit = me.m09.d08_en_US_oca.meVE.Stichera05.incipit
+meVE.Stichera05.mode = me.m09.d08_en_US_goadedes.meVE.Stichera05.mode
+meVE.Stichera05.melody = me.m09.d08_en_US_goadedes.meVE.Stichera05.melody
+meVE.Stichera05.incipit = me.m09.d08_en_US_goadedes.meVE.Stichera05.incipit
 meVE.Stichera05.text = me.m09.d08_en_US_goadedes.meVE.Stichera05.text
 
 meVE.Stichera06.mode = me.m09.d08_en_US_goadedes.meVE.Stichera06.mode
