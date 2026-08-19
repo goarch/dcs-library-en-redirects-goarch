@@ -402,10 +402,10 @@ meMA.Aposticha3.melody = me.m09.d20_en_US_dedes.meMA.Aposticha3.melody
 meMA.Aposticha3.incipit = me.m09.d20_en_US_dedes.meMA.Aposticha3.incipit
 meMA.Aposticha3.text = me.m09.d20_en_US_dedes.meMA.Aposticha3.text
 
-meMA.AposGlory.mode = me.m09.d20_en_US_dedes.meMA.AposGlory.mode
-meMA.AposGlory.melody = me.m09.d20_en_US_oca.meMA.AposGlory.melody
-meMA.AposGlory.incipit = me.m09.d20_en_US_oca.meMA.AposGlory.incipit
-meMA.AposGlory.text = me.m09.d20_en_US_oca.meMA.AposGlory.text
+meMA.AposGlory.mode = me.m09.d20_en_US_goadedes.meMA.AposGlory.mode
+meMA.AposGlory.melody = me.m09.d20_en_US_goadedes.meMA.AposGlory.melody
+meMA.AposGlory.incipit = me.m09.d20_en_US_goadedes.meMA.AposGlory.incipit
+meMA.AposGlory.text = me.m09.d20_en_US_goadedes.meMA.AposGlory.text
 
 meMA.AposBoth.mode = me.m09.d20_en_US_dedes.meMA.AposBoth.mode
 meMA.AposBoth.melody = me.m09.d20_en_US_dedes.meMA.AposBoth.melody

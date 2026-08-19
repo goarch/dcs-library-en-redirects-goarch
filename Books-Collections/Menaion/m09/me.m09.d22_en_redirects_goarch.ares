@@ -57,11 +57,11 @@ meVE.Stichera06.melody = me.m09.d22_en_US_goadedes.meVE.Stichera06.melody
 meVE.Stichera06.incipit = me.m09.d22_en_US_goadedes.meVE.Stichera06.incipit
 meVE.Stichera06.text = me.m09.d22_en_US_goadedes.meVE.Stichera06.text
 
-meVE.SticGlory.poet = me.m09.d22_en_US_dedes.meVE.SticGlory.poet
-meVE.SticGlory.mode = me.m09.d22_en_US_dedes.meVE.SticGlory.mode
-meVE.SticGlory.melody = me.m09.d22_en_US_dedes.meVE.SticGlory.melody
-meVE.SticGlory.incipit = me.m09.d22_en_US_oca.meVE.SticGlory.incipit
-meVE.SticGlory.text = me.m09.d22_en_US_oca.meVE.SticGlory.text
+meVE.SticGlory.poet = me.m09.d22_en_US_goadedes.meVE.SticGlory.poet
+meVE.SticGlory.mode = me.m09.d22_en_US_goadedes.meVE.SticGlory.mode
+meVE.SticGlory.melody = me.m09.d22_en_US_goadedes.meVE.SticGlory.melody
+meVE.SticGlory.incipit = me.m09.d22_en_US_goadedes.meVE.SticGlory.incipit
+meVE.SticGlory.text = me.m09.d22_en_US_goadedes.meVE.SticGlory.text
 
 meVE.SticTheotokion.mode = me.m09.d22_en_US_dedes.meVE.SticTheotokion.mode
 meVE.SticTheotokion.greekmelody = me.m09.d22_en_US_dedes.meVE.SticTheotokion.greekmelody
