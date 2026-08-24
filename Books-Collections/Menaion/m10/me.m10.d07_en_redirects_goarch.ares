@@ -39,10 +39,10 @@ meVE.Stichera03.melody = me.m10.d07_en_US_goadedes.meVE.Stichera03.melody
 meVE.Stichera03.incipit = me.m10.d07_en_US_goadedes.meVE.Stichera03.incipit
 meVE.Stichera03.text = me.m10.d07_en_US_goadedes.meVE.Stichera03.text
 
-meVE.SticGlory.mode = me.m10.d07_en_US_dedes.meVE.SticGlory.mode
-meVE.SticGlory.melody = me.m10.d07_en_US_dedes.meVE.SticGlory.melody
-meVE.SticGlory.incipit = me.m10.d07_en_US_oca.meVE.SticGlory.incipit
-meVE.SticGlory.text = me.m10.d07_en_US_oca.meVE.SticGlory.text
+meVE.SticGlory.mode = me.m10.d07_en_US_goadedes.meVE.SticGlory.mode
+meVE.SticGlory.melody = me.m10.d07_en_US_goadedes.meVE.SticGlory.melody
+meVE.SticGlory.incipit = me.m10.d07_en_US_goadedes.meVE.SticGlory.incipit
+meVE.SticGlory.text = me.m10.d07_en_US_goadedes.meVE.SticGlory.text
 
 meVE.SticTheotokion.mode = me.m10.d07_en_US_goadedes.meVE.SticTheotokion.mode
 meVE.SticTheotokion.greekmelody = me.m10.d07_en_US_goadedes.meVE.SticTheotokion.greekmelody
@@ -59,7 +59,7 @@ meVE.SticStavrotheotokion.text = me.m10.d07_en_US_dedes.meVE.SticStavrotheotokio
 meVE.AposGlory.mode = me.m10.d07_en_US_dedes.meVE.AposGlory.mode
 meVE.AposGlory.melody = me.m10.d07_en_US_dedes.meVE.AposGlory.melody
 meVE.AposGlory.incipit = me.m10.d07_en_US_oca.meVE.AposGlory.incipit
-meVE.AposGlory.text = me.m10.d07_en_US_oca.meVE.AposGlory.text
+meVE.AposGlory.text = me.m10.d07_en_US_goadedes.meVE.AposGlory.text
 
 meVE.AposTheotokion.mode = me.m10.d07_en_US_dedes.meVE.AposTheotokion.mode
 meVE.AposTheotokion.greekmelody = me.m10.d07_en_US_dedes.meVE.AposTheotokion.greekmelody
@@ -416,11 +416,11 @@ meMA.LaudsStavrotheotokion.text = me.m10.d07_en_US_dedes.meMA.LaudsStavrotheotok
 
 meMA.MM.Lauds1123as5678.text = me.m10.d07_en_US_dedes.meMA.MM.Lauds1123as5678.text
 
-meMA.AposGlory.poet = me.m10.d07_en_US_dedes.meMA.AposGlory.poet
-meMA.AposGlory.mode = me.m10.d07_en_US_dedes.meMA.AposGlory.mode
-meMA.AposGlory.melody = me.m10.d07_en_US_dedes.meMA.AposGlory.melody
-meMA.AposGlory.incipit = me.m10.d07_en_US_oca.meMA.AposGlory.incipit
-meMA.AposGlory.text = me.m10.d07_en_US_oca.meMA.AposGlory.text
+meMA.AposGlory.poet = me.m10.d07_en_US_goadedes.meMA.AposGlory.poet
+meMA.AposGlory.mode = me.m10.d07_en_US_goadedes.meMA.AposGlory.mode
+meMA.AposGlory.melody = me.m10.d07_en_US_goadedes.meMA.AposGlory.melody
+meMA.AposGlory.incipit = me.m10.d07_en_US_goadedes.meMA.AposGlory.incipit
+meMA.AposGlory.text = me.m10.d07_en_US_goadedes.meMA.AposGlory.text
 
 meMA.AposTheotokion.mode = me.m10.d07_en_US_dedes.meMA.AposTheotokion.mode
 meMA.AposTheotokion.greekmelody = me.m10.d07_en_US_dedes.meMA.AposTheotokion.greekmelody
