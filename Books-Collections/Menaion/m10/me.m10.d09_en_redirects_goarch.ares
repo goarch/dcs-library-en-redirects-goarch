@@ -59,7 +59,7 @@ meVE.SticGlory.poet = me.m10.d09_en_US_dedes.meVE.SticGlory.poet
 meVE.SticGlory.mode = me.m10.d09_en_US_dedes.meVE.SticGlory.mode
 meVE.SticGlory.melody = me.m10.d09_en_US_dedes.meVE.SticGlory.melody
 meVE.SticGlory.incipit = me.m10.d09_en_US_oca.meVE.SticGlory.incipit
-meVE.SticGlory.text = me.m10.d09_en_US_oca.meVE.SticGlory.text
+meVE.SticGlory.text = me.m10.d09_en_US_goadedes.meVE.SticGlory.text
 
 meVE.SticTheotokion.mode = me.m10.d09_en_US_goadedes.meVE.SticTheotokion.mode
 meVE.SticTheotokion.greekmelody = me.m10.d09_en_US_goadedes.meVE.SticTheotokion.greekmelody
@@ -73,10 +73,10 @@ meVE.SticStavrotheotokion.melody = me.m10.d09_en_US_goadedes.meVE.SticStavrotheo
 meVE.SticStavrotheotokion.incipit = me.m10.d09_en_US_goadedes.meVE.SticStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m10.d09_en_US_goadedes.meVE.SticStavrotheotokion.text
 
-meVE.AposGlory.mode = me.m10.d09_en_US_dedes.meVE.AposGlory.mode
-meVE.AposGlory.melody = me.m10.d09_en_US_dedes.meVE.AposGlory.melody
-meVE.AposGlory.incipit = me.m10.d09_en_US_oca.meVE.AposGlory.incipit
-meVE.AposGlory.text = me.m10.d09_en_US_oca.meVE.AposGlory.text
+meVE.AposGlory.mode = me.m10.d09_en_US_goadedes.meVE.AposGlory.mode
+meVE.AposGlory.melody = me.m10.d09_en_US_goadedes.meVE.AposGlory.melody
+meVE.AposGlory.incipit = me.m10.d09_en_US_goadedes.meVE.AposGlory.incipit
+meVE.AposGlory.text = me.m10.d09_en_US_goadedes.meVE.AposGlory.text
 
 meVE.AposTheotokion.mode = me.m10.d09_en_US_goadedes.meVE.AposTheotokion.mode
 meVE.AposTheotokion.greekmelody = me.m10.d09_en_US_goadedes.meVE.AposTheotokion.greekmelody
@@ -609,10 +609,10 @@ meMA.Lauds3.text = me.m10.d09_en_US_dedes.meMA.Lauds3.text
 
 meMA.MM.Lauds1123as5678.text = me.m10.d09_en_US_dedes.meMA.MM.Lauds1123as5678.text
 
-meMA.LaudsGlory.mode = me.m10.d09_en_US_dedes.meMA.LaudsGlory.mode
-meMA.LaudsGlory.melody = me.m10.d09_en_US_oca.meMA.LaudsGlory.melody
-meMA.LaudsGlory.incipit = me.m10.d09_en_US_oca.meMA.LaudsGlory.incipit
-meMA.LaudsGlory.text = me.m10.d09_en_US_oca.meMA.LaudsGlory.text
+meMA.LaudsGlory.mode = me.m10.d09_en_US_goadedes.meMA.LaudsGlory.mode
+meMA.LaudsGlory.melody = me.m10.d09_en_US_goadedes.meMA.LaudsGlory.melody
+meMA.LaudsGlory.incipit = me.m10.d09_en_US_goadedes.meMA.LaudsGlory.incipit
+meMA.LaudsGlory.text = me.m10.d09_en_US_goadedes.meMA.LaudsGlory.text
 
 meMA.LaudsTheotokion.mode = me.m10.d09_en_US_dedes.meMA.LaudsTheotokion.mode
 meMA.LaudsTheotokion.melody = me.m10.d09_en_US_dedes.meMA.LaudsTheotokion.melody
