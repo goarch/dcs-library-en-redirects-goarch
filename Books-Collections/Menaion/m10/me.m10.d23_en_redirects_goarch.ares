@@ -41,10 +41,10 @@ meVE.Stichera03.text = me.m10.d23_en_US_goadedes.meVE.Stichera03.text
 
 meVE.MM.Stichera1123as78910.text = me.m10.d23_en_US_dedes.meVE.MM.Stichera1123as78910.text
 
-meVE.SticGlory.mode = me.m10.d23_en_US_dedes.meVE.SticGlory.mode
-meVE.SticGlory.melody = me.m10.d23_en_US_dedes.meVE.SticGlory.melody
-meVE.SticGlory.incipit = me.m10.d23_en_US_oca.meVE.SticGlory.incipit
-meVE.SticGlory.text = me.m10.d23_en_US_oca.meVE.SticGlory.text
+meVE.SticGlory.mode = me.m10.d23_en_US_goadedes.meVE.SticGlory.mode
+meVE.SticGlory.melody = me.m10.d23_en_US_goadedes.meVE.SticGlory.melody
+meVE.SticGlory.incipit = me.m10.d23_en_US_goadedes.meVE.SticGlory.incipit
+meVE.SticGlory.text = me.m10.d23_en_US_goadedes.meVE.SticGlory.text
 
 meVE.SticTheotokion.mode = me.m10.d23_en_US_dedes.meVE.SticTheotokion.mode
 meVE.SticTheotokion.greekmelody = me.m10.d23_en_US_dedes.meVE.SticTheotokion.greekmelody
@@ -83,10 +83,10 @@ meVE.Aposticha3.melody = me.m10.d23_en_US_goadedes.meVE.Aposticha3.melody
 meVE.Aposticha3.incipit = me.m10.d23_en_US_goadedes.meVE.Aposticha3.incipit
 meVE.Aposticha3.text = me.m10.d23_en_US_goadedes.meVE.Aposticha3.text
 
-meVE.AposGlory.mode = me.m10.d23_en_US_dedes.meVE.AposGlory.mode
-meVE.AposGlory.melody = me.m10.d23_en_US_dedes.meVE.AposGlory.melody
-meVE.AposGlory.incipit = me.m10.d23_en_US_oca.meVE.AposGlory.incipit
-meVE.AposGlory.text = me.m10.d23_en_US_oca.meVE.AposGlory.text
+meVE.AposGlory.mode = me.m10.d23_en_US_goadedes.meVE.AposGlory.mode
+meVE.AposGlory.melody = me.m10.d23_en_US_goadedes.meVE.AposGlory.melody
+meVE.AposGlory.incipit = me.m10.d23_en_US_goadedes.meVE.AposGlory.incipit
+meVE.AposGlory.text = me.m10.d23_en_US_goadedes.meVE.AposGlory.text
 
 meVE.AposTheotokion.mode = me.m10.d23_en_US_dedes.meVE.AposTheotokion.mode
 meVE.AposTheotokion.greekmelody = me.m10.d23_en_US_dedes.meVE.AposTheotokion.greekmelody
