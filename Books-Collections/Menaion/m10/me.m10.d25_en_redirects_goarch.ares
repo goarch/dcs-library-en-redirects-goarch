@@ -39,11 +39,11 @@ meVE.Stichera03.melody = me.m10.d25_en_US_goadedes.meVE.Stichera03.melody
 meVE.Stichera03.incipit = me.m10.d25_en_US_goadedes.meVE.Stichera03.incipit
 meVE.Stichera03.text = me.m10.d25_en_US_goadedes.meVE.Stichera03.text
 
-meVE.SticGlory.poet = me.m10.d25_en_US_dedes.meVE.SticGlory.poet
-meVE.SticGlory.mode = me.m10.d25_en_US_dedes.meVE.SticGlory.mode
-meVE.SticGlory.melody = me.m10.d25_en_US_dedes.meVE.SticGlory.melody
-meVE.SticGlory.incipit = me.m10.d25_en_US_oca.meVE.SticGlory.incipit
-meVE.SticGlory.text = me.m10.d25_en_US_oca.meVE.SticGlory.text
+meVE.SticGlory.poet = me.m10.d25_en_US_goadedes.meVE.SticGlory.poet
+meVE.SticGlory.mode = me.m10.d25_en_US_goadedes.meVE.SticGlory.mode
+meVE.SticGlory.melody = me.m10.d25_en_US_goadedes.meVE.SticGlory.melody
+meVE.SticGlory.incipit = me.m10.d25_en_US_goadedes.meVE.SticGlory.incipit
+meVE.SticGlory.text = me.m10.d25_en_US_goadedes.meVE.SticGlory.text
 
 meVE.SticTheotokion.mode = me.m10.d25_en_US_dedes.meVE.SticTheotokion.mode
 meVE.SticTheotokion.greekmelody = me.m10.d25_en_US_dedes.meVE.SticTheotokion.greekmelody
@@ -57,10 +57,10 @@ meVE.SticStavrotheotokion.melody = me.m10.d25_en_US_dedes.meVE.SticStavrotheotok
 meVE.SticStavrotheotokion.incipit = me.m10.d25_en_US_dedes.meVE.SticStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m10.d25_en_US_dedes.meVE.SticStavrotheotokion.text
 
-meVE.AposGlory.mode = me.m10.d25_en_US_dedes.meVE.AposGlory.mode
-meVE.AposGlory.melody = me.m10.d25_en_US_dedes.meVE.AposGlory.melody
-meVE.AposGlory.incipit = me.m10.d25_en_US_oca.meVE.AposGlory.incipit
-meVE.AposGlory.text = me.m10.d25_en_US_oca.meVE.AposGlory.text
+meVE.AposGlory.mode = me.m10.d25_en_US_goadedes.meVE.AposGlory.mode
+meVE.AposGlory.melody = me.m10.d25_en_US_goadedes.meVE.AposGlory.melody
+meVE.AposGlory.incipit = me.m10.d25_en_US_goadedes.meVE.AposGlory.incipit
+meVE.AposGlory.text = me.m10.d25_en_US_goadedes.meVE.AposGlory.text
 
 meVE.AposTheotokion.mode = me.m10.d25_en_US_dedes.meVE.AposTheotokion.mode
 meVE.AposTheotokion.melody = me.m10.d25_en_US_dedes.meVE.AposTheotokion.melody
