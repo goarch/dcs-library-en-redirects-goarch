@@ -790,10 +790,10 @@ meMA.MM.Lauds1123as5678.text = me.m09.d08_en_US_dedes.meMA.MM.Lauds1123as5678.te
 
 meLI.MM.EntranceHymn.text = me.m09.d08_en_US_dedes.meLI.MM.EntranceHymn.text
 
-meLI.Kontakion1.mode = me.m09.d08_en_US_dedes.meLI.Kontakion1.mode
-meLI.Kontakion1.melody = me.m09.d08_en_US_duvall.meLI.Kontakion1.melody
-meLI.Kontakion1.incipit = me.m09.d08_en_US_duvall.meLI.Kontakion1.incipit
-meLI.Kontakion1.text = me.m09.d08_en_US_duvall.meLI.Kontakion1.text
+meLI.Kontakion1.mode = me.m09.d08_en_US_goadedes.meLI.Kontakion1.mode
+meLI.Kontakion1.melody = me.m09.d08_en_US_goadedes.meLI.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m09.d08_en_US_goadedes.meLI.Kontakion1.incipit
+meLI.Kontakion1.text = me.m09.d08_en_US_goadedes.meLI.Kontakion1.text
 
 meLI.TheotokosHymn.mode = me.m09.d08_en_US_dedes.meLI.TheotokosHymn.mode
 meLI.TheotokosHymn.incipit = me.m09.d08_en_US_dedes.meLI.TheotokosHymn.incipit
