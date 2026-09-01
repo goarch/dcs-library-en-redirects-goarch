@@ -66,23 +66,23 @@ meVE.SticBoth.melody = me.m10.d26_en_US_dedes.meVE.SticBoth.melody
 meVE.SticBoth.incipit = me.m10.d26_en_US_dedes.meVE.SticBoth.incipit
 meVE.SticBoth.text = me.m10.d26_en_US_dedes.meVE.SticBoth.text
 
-meVE.Lity1.poet = me.m10.d26_en_US_dedes.meVE.Lity1.poet
-meVE.Lity1.mode = me.m10.d26_en_US_dedes.meVE.Lity1.mode
-meVE.Lity1.melody = me.m10.d26_en_US_dedes.meVE.Lity1.melody
-meVE.Lity1.incipit = me.m10.d26_en_US_oca.meVE.Lity1.incipit
-meVE.Lity1.text = me.m10.d26_en_US_oca.meVE.Lity1.text
+meVE.Lity1.poet = me.m10.d26_en_US_goadedes.meVE.Lity1.poet
+meVE.Lity1.mode = me.m10.d26_en_US_goadedes.meVE.Lity1.mode
+meVE.Lity1.melody = me.m10.d26_en_US_goadedes.meVE.Lity1.melody
+meVE.Lity1.incipit = me.m10.d26_en_US_goadedes.meVE.Lity1.incipit
+meVE.Lity1.text = me.m10.d26_en_US_goadedes.meVE.Lity1.text
 
-meVE.Lity2.poet = me.m10.d26_en_US_dedes.meVE.Lity2.poet
-meVE.Lity2.mode = me.m10.d26_en_US_dedes.meVE.Lity2.mode
-meVE.Lity2.melody = me.m10.d26_en_US_dedes.meVE.Lity2.melody
-meVE.Lity2.incipit = me.m10.d26_en_US_oca.meVE.Lity2.incipit
-meVE.Lity2.text = me.m10.d26_en_US_oca.meVE.Lity2.text
+meVE.Lity2.poet = me.m10.d26_en_US_goadedes.meVE.Lity2.poet
+meVE.Lity2.mode = me.m10.d26_en_US_goadedes.meVE.Lity2.mode
+meVE.Lity2.melody = me.m10.d26_en_US_goadedes.meVE.Lity2.melody
+meVE.Lity2.incipit = me.m10.d26_en_US_goadedes.meVE.Lity2.incipit
+meVE.Lity2.text = me.m10.d26_en_US_goadedes.meVE.Lity2.text
 
 meVE.LityGlory.poet = me.m10.d26_en_US_dedes.meVE.LityGlory.poet
 meVE.LityGlory.mode = me.m10.d26_en_US_dedes.meVE.LityGlory.mode
 meVE.LityGlory.melody = me.m10.d26_en_US_dedes.meVE.LityGlory.melody
-meVE.LityGlory.incipit = me.m10.d26_en_US_oca.meVE.LityGlory.incipit
-meVE.LityGlory.text = me.m10.d26_en_US_oca.meVE.LityGlory.text
+meVE.LityGlory.incipit = me.m10.d26_en_US_dedes.meVE.LityGlory.incipit
+meVE.LityGlory.text = me.m10.d26_en_US_dedes.meVE.LityGlory.text
 
 meVE.LityBoth.mode = me.m10.d26_en_US_goadedes.meVE.LityBoth.mode
 meVE.LityBoth.melody = me.m10.d26_en_US_goadedes.meVE.LityBoth.melody
@@ -149,10 +149,10 @@ meMA.Kathisma21.melody = me.m10.d26_en_US_dedes.meMA.Kathisma21.melody
 meMA.Kathisma21.incipit = me.m10.d26_en_US_dedes.meMA.Kathisma21.incipit
 meMA.Kathisma21.text = me.m10.d26_en_US_dedes.meMA.Kathisma21.text
 
-meMA.Kathisma2T.mode = me.m10.d26_en_US_dedes.meMA.Kathisma2T.mode
-meMA.Kathisma2T.melody = me.m10.d26_en_US_dedes.meMA.Kathisma2T.melody
-meMA.Kathisma2T.incipit = me.m10.d26_en_US_dedes.meMA.Kathisma2T.incipit
-meMA.Kathisma2T.text = me.m10.d26_en_US_dedes.meMA.Kathisma2T.text
+meMA.Kathisma2T.mode = me.m10.d26_en_US_goadedes.meMA.Kathisma2T.mode
+meMA.Kathisma2T.melody = me.m10.d26_en_US_goadedes.meMA.Kathisma2T.melody
+meMA.Kathisma2T.incipit = me.m10.d26_en_US_goadedes.meMA.Kathisma2T.incipit
+meMA.Kathisma2T.text = me.m10.d26_en_US_goadedes.meMA.Kathisma2T.text
 
 meMA.Kathisma31.mode = me.m10.d26_en_US_dedes.meMA.Kathisma31.mode
 meMA.Kathisma31.greekmelody = me.m10.d26_en_US_dedes.meMA.Kathisma31.greekmelody
@@ -918,10 +918,10 @@ meMA.Lauds1.melody = me.m10.d26_en_US_dedes.meMA.Lauds1.melody
 meMA.Lauds1.incipit = me.m10.d26_en_US_dedes.meMA.Lauds1.incipit
 meMA.Lauds1.text = me.m10.d26_en_US_dedes.meMA.Lauds1.text
 
-meMA.Lauds2.mode = me.m10.d26_en_US_dedes.meMA.Lauds2.mode
-meMA.Lauds2.melody = me.m10.d26_en_US_dedes.meMA.Lauds2.melody
-meMA.Lauds2.incipit = me.m10.d26_en_US_dedes.meMA.Lauds2.incipit
-meMA.Lauds2.text = me.m10.d26_en_US_dedes.meMA.Lauds2.text
+meMA.Lauds2.mode = me.m10.d26_en_US_goadedes.meMA.Lauds2.mode
+meMA.Lauds2.melody = me.m10.d26_en_US_goadedes.meMA.Lauds2.melody
+meMA.Lauds2.incipit = me.m10.d26_en_US_goadedes.meMA.Lauds2.incipit
+meMA.Lauds2.text = me.m10.d26_en_US_goadedes.meMA.Lauds2.text
 
 meMA.Lauds3.mode = me.m10.d26_en_US_dedes.meMA.Lauds3.mode
 meMA.Lauds3.melody = me.m10.d26_en_US_dedes.meMA.Lauds3.melody
