@@ -473,15 +473,15 @@ meMA.LaudsGlory.melody = me.m11.d02_en_US_goadedes.meMA.LaudsGlory.melody
 meMA.LaudsGlory.incipit = me.m11.d02_en_US_goadedes.meMA.LaudsGlory.incipit
 meMA.LaudsGlory.text = me.m11.d02_en_US_goadedes.meMA.LaudsGlory.text
 
-meMA.Aposticha4.mode = me.m11.d02_en_US_dedes.meMA.Aposticha4.mode
-meMA.Aposticha4.melody = me.m11.d02_en_US_dedes.meMA.Aposticha4.melody
-meMA.Aposticha4.incipit = me.m11.d02_en_US_oca.meMA.Aposticha4.incipit
-meMA.Aposticha4.text = me.m11.d02_en_US_oca.meMA.Aposticha4.text
+meMA.Aposticha4.mode = me.m11.d02_en_US_goadedes.meMA.Aposticha4.mode
+meMA.Aposticha4.melody = me.m11.d02_en_US_goadedes.meMA.Aposticha4.melody
+meMA.Aposticha4.incipit = me.m11.d02_en_US_goadedes.meMA.Aposticha4.incipit
+meMA.Aposticha4.text = me.m11.d02_en_US_goadedes.meMA.Aposticha4.text
 
-meMA.AposGlory.mode = me.m11.d02_en_US_dedes.meMA.AposGlory.mode
-meMA.AposGlory.melody = me.m11.d02_en_US_dedes.meMA.AposGlory.melody
-meMA.AposGlory.incipit = me.m11.d02_en_US_oca.meMA.AposGlory.incipit
-meMA.AposGlory.text = me.m11.d02_en_US_oca.meMA.AposGlory.text
+meMA.AposGlory.mode = me.m11.d02_en_US_goadedes.meMA.AposGlory.mode
+meMA.AposGlory.melody = me.m11.d02_en_US_goadedes.meMA.AposGlory.melody
+meMA.AposGlory.incipit = me.m11.d02_en_US_goadedes.meMA.AposGlory.incipit
+meMA.AposGlory.text = me.m11.d02_en_US_goadedes.meMA.AposGlory.text
 
 meMA.AposTheotokion.mode = me.m11.d02_en_US_dedes.meMA.AposTheotokion.mode
 meMA.AposTheotokion.greekmelody = me.m11.d02_en_US_dedes.meMA.AposTheotokion.greekmelody
