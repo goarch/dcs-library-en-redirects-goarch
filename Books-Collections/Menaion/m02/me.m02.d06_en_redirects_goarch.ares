@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m02.d06_en_redirects_goarch
 
-meDA.date = me.m02.d06_en_US_dedes.meDA.date // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = me.m02.d06_en_US_dedes.meDA.date
 meDA.commemoration.full = me.m02.d06_en_US_dedes.meDA.commemoration.full // full title of day
 meDA.commemoration.first = me.m02.d06_en_US_dedes.meDA.commemoration.first
 meDA.commemoration.first_short = me.m02.d06_en_US_dedes.meDA.commemoration.first_short
@@ -461,7 +461,7 @@ meMA.Ode3KathismaSt.melody = me.m02.d06_en_US_dedes.meMA.Ode3KathismaSt.melody
 meMA.Ode3KathismaSt.incipit = me.m02.d06_en_US_dedes.meMA.Ode3KathismaSt.incipit
 meMA.Ode3KathismaSt.text = me.m02.d06_en_US_dedes.meMA.Ode3KathismaSt.text
 
-alt1.meDA.date = me.m02.d06_en_US_dedes.alt1.meDA.date // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt1.meDA.date = me.m02.d06_en_US_dedes.alt1.meDA.date
 alt1.meDA.commemoration.full = me.m02.d06_en_US_dedes.alt1.meDA.commemoration.full // full title of day
 alt1.meDA.commemoration.first_short = me.m02.d06_en_US_dedes.alt1.meDA.commemoration.first_short
 alt1.meDA.commemoration.first_title = me.m02.d06_en_US_dedes.alt1.meDA.commemoration.first_title

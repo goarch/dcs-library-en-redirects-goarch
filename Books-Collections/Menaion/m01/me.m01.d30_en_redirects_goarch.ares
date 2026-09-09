@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m01.d30_en_redirects_goarch
 
-meDA.date = me.m01.d30_en_US_dedes.meDA.date // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = me.m01.d30_en_US_dedes.meDA.date
 meDA.commemoration.full = me.m01.d30_en_US_dedes.meDA.commemoration.full // full title of day
 meDA.commemoration.first = me.m01.d30_en_US_dedes.meDA.commemoration.first
 meDA.commemoration.first_short = me.m01.d30_en_US_dedes.meDA.commemoration.first_short
@@ -1010,7 +1010,7 @@ meLI.MM.CommunionHymn.text = me.m01.d30_en_US_dedes.meLI.MM.CommunionHymn.text
 
 meLI.Megalynarion.text = me.m01.d30_en_US_goadedes.meLI.Megalynarion.text
 
-alt1.meDA.date = me.m01.d30_en_US_dedes.alt1.meDA.date // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt1.meDA.date = me.m01.d30_en_US_dedes.alt1.meDA.date
 alt1.meDA.commemoration.full = me.m01.d30_en_US_dedes.alt1.meDA.commemoration.full // full title of day
 alt1.meDA.commemoration.first_short = me.m01.d30_en_US_dedes.alt1.meDA.commemoration.first_short
 alt1.meDA.commemoration.first_title = me.m01.d30_en_US_dedes.alt1.meDA.commemoration.first_title
