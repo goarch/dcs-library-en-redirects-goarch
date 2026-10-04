@@ -6,6 +6,7 @@ peDA.commemoration.name = pe.d076_en_US_dedes.peDA.commemoration.name
 peDA.insert1 = pe.d076_en_US_dedes.peDA.insert1 // for use in petitions and dismissal
 peDA.insert2 = pe.d076_en_US_dedes.peDA.insert2 // for use in petitions and dismissal
 peDA.note = pe.d076_en_US_dedes.peDA.note
+peDA.note1 = pe.d076_en_US_dedes.peDA.note1
 peHO.daytitle = pe.d076_en_US_dedes.peHO.daytitle
 peHO.commemorations = pe.d076_en_US_dedes.peHO.commemorations
 peHO.description1 = pe.d076_en_US_dedes.peHO.description1
