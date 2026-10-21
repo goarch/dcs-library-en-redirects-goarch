@@ -628,11 +628,6 @@ meMA.LaudsGlory.melody = me.m08.d29_en_US_dedes.meMA.LaudsGlory.melody
 meMA.LaudsGlory.incipit = me.m08.d29_en_US_dedes.meMA.LaudsGlory.incipit
 meMA.LaudsGlory.text = me.m08.d29_en_US_dedes.meMA.LaudsGlory.text
 
-meMA.LaudsTheotokion.mode = me.m08.d29_en_US_dedes.meMA.LaudsTheotokion.mode
-meMA.LaudsTheotokion.melody = me.m08.d29_en_US_dedes.meMA.LaudsTheotokion.melody
-meMA.LaudsTheotokion.incipit = me.m08.d29_en_US_dedes.meMA.LaudsTheotokion.incipit
-meMA.LaudsTheotokion.text = me.m08.d29_en_US_dedes.meMA.LaudsTheotokion.text
-
 meMA.MM.Lauds1123as5678.text = me.m08.d29_en_US_dedes.meMA.MM.Lauds1123as5678.text
 
 meMA.AdditionalIdiomelon1.mode = me.m08.d29_en_US_dedes.meMA.AdditionalIdiomelon1.mode

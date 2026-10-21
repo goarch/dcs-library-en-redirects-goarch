@@ -96,11 +96,6 @@ meVE.AposGlory.melody = me.m12.d04_en_US_dedes.meVE.AposGlory.melody
 meVE.AposGlory.incipit = me.m12.d04_en_US_dedes.meVE.AposGlory.incipit
 meVE.AposGlory.text = me.m12.d04_en_US_dedes.meVE.AposGlory.text
 
-meVE.AposTheotokion.mode = me.m12.d04_en_US_dedes.meVE.AposTheotokion.mode
-meVE.AposTheotokion.melody = me.m12.d04_en_US_dedes.meVE.AposTheotokion.melody
-meVE.AposTheotokion.incipit = me.m12.d04_en_US_dedes.meVE.AposTheotokion.incipit
-meVE.AposTheotokion.text = me.m12.d04_en_US_dedes.meVE.AposTheotokion.text
-
 meVE.Apolytikion1.mode = me.m12.d04_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m12.d04_en_US_dedes.meVE.Apolytikion1.melody
 meVE.Apolytikion1.incipit = me.m12.d04_en_US_dedes.meVE.Apolytikion1.incipit
@@ -595,11 +590,6 @@ meMA.LaudsGlory.mode = me.m12.d04_en_US_dedes.meMA.LaudsGlory.mode
 meMA.LaudsGlory.melody = me.m12.d04_en_US_dedes.meMA.LaudsGlory.melody
 meMA.LaudsGlory.incipit = me.m12.d04_en_US_dedes.meMA.LaudsGlory.incipit
 meMA.LaudsGlory.text = me.m12.d04_en_US_dedes.meMA.LaudsGlory.text
-
-meMA.LaudsTheotokion.mode = me.m12.d04_en_US_dedes.meMA.LaudsTheotokion.mode
-meMA.LaudsTheotokion.melody = me.m12.d04_en_US_dedes.meMA.LaudsTheotokion.melody
-meMA.LaudsTheotokion.incipit = me.m12.d04_en_US_dedes.meMA.LaudsTheotokion.incipit
-meMA.LaudsTheotokion.text = me.m12.d04_en_US_dedes.meMA.LaudsTheotokion.text
 
 meMA.MM.VeApos1123as5678.text = me.m12.d04_en_US_dedes.meMA.MM.VeApos1123as5678.text
 
