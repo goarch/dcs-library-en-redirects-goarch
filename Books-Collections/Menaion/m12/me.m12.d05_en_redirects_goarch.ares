@@ -38,10 +38,10 @@ meSV.Stichera3.melody = me.m12.d05_en_US_oca.meSV.Stichera3.melody
 meSV.Stichera3.incipit = me.m12.d05_en_US_oca.meSV.Stichera3.incipit
 meSV.Stichera3.text = me.m12.d05_en_US_oca.meSV.Stichera3.text
 
-meSV.SticGlory.mode = me.m12.d05_en_US_dedes.meSV.SticGlory.mode
-meSV.SticGlory.melody = me.m12.d05_en_US_oca.meSV.SticGlory.melody
-meSV.SticGlory.incipit = me.m12.d05_en_US_oca.meSV.SticGlory.incipit
-meSV.SticGlory.text = me.m12.d05_en_US_oca.meSV.SticGlory.text
+meSV.SticGlory.mode = me.m12.d05_en_US_goadedes.meSV.SticGlory.mode
+meSV.SticGlory.melody = me.m12.d05_en_US_goadedes.meSV.SticGlory.melody
+meSV.SticGlory.incipit = me.m12.d05_en_US_goadedes.meSV.SticGlory.incipit
+meSV.SticGlory.text = me.m12.d05_en_US_goadedes.meSV.SticGlory.text
 
 meSV.SticBoth.mode = me.m12.d05_en_US_dedes.meSV.SticBoth.mode
 meSV.SticBoth.melody = me.m12.d05_en_US_oca.meSV.SticBoth.melody
@@ -94,26 +94,26 @@ meVE.SticTheotokion.melody = me.m12.d05_en_US_goadedes.meVE.SticTheotokion.melod
 meVE.SticTheotokion.incipit = me.m12.d05_en_US_goadedes.meVE.SticTheotokion.incipit
 meVE.SticTheotokion.text = me.m12.d05_en_US_goadedes.meVE.SticTheotokion.text
 
-meVE.Lity1.mode = me.m12.d05_en_US_dedes.meVE.Lity1.mode
-meVE.Lity1.melody = me.m12.d05_en_US_dedes.meVE.Lity1.melody
-meVE.Lity1.incipit = me.m12.d05_en_US_oca.meVE.Lity1.incipit
-meVE.Lity1.text = me.m12.d05_en_US_oca.meVE.Lity1.text
+meVE.Lity1.mode = me.m12.d05_en_US_goadedes.meVE.Lity1.mode
+meVE.Lity1.melody = me.m12.d05_en_US_goadedes.meVE.Lity1.melody
+meVE.Lity1.incipit = me.m12.d05_en_US_goadedes.meVE.Lity1.incipit
+meVE.Lity1.text = me.m12.d05_en_US_goadedes.meVE.Lity1.text
 
-meVE.Lity2.mode = me.m12.d05_en_US_dedes.meVE.Lity2.mode
-meVE.Lity2.melody = me.m12.d05_en_US_dedes.meVE.Lity2.melody
-meVE.Lity2.incipit = me.m12.d05_en_US_oca.meVE.Lity2.incipit
-meVE.Lity2.text = me.m12.d05_en_US_oca.meVE.Lity2.text
+meVE.Lity2.mode = me.m12.d05_en_US_goadedes.meVE.Lity2.mode
+meVE.Lity2.melody = me.m12.d05_en_US_goadedes.meVE.Lity2.melody
+meVE.Lity2.incipit = me.m12.d05_en_US_goadedes.meVE.Lity2.incipit
+meVE.Lity2.text = me.m12.d05_en_US_goadedes.meVE.Lity2.text
 
-meVE.Lity3.mode = me.m12.d05_en_US_dedes.meVE.Lity3.mode
-meVE.Lity3.melody = me.m12.d05_en_US_dedes.meVE.Lity3.melody
-meVE.Lity3.incipit = me.m12.d05_en_US_oca.meVE.Lity3.incipit
-meVE.Lity3.text = me.m12.d05_en_US_oca.meVE.Lity3.text
+meVE.Lity3.mode = me.m12.d05_en_US_goadedes.meVE.Lity3.mode
+meVE.Lity3.melody = me.m12.d05_en_US_goadedes.meVE.Lity3.melody
+meVE.Lity3.incipit = me.m12.d05_en_US_goadedes.meVE.Lity3.incipit
+meVE.Lity3.text = me.m12.d05_en_US_goadedes.meVE.Lity3.text
 
-meVE.LityGlory.poet = me.m12.d05_en_US_dedes.meVE.LityGlory.poet
-meVE.LityGlory.mode = me.m12.d05_en_US_dedes.meVE.LityGlory.mode
-meVE.LityGlory.melody = me.m12.d05_en_US_dedes.meVE.LityGlory.melody
-meVE.LityGlory.incipit = me.m12.d05_en_US_oca.meVE.LityGlory.incipit
-meVE.LityGlory.text = me.m12.d05_en_US_oca.meVE.LityGlory.text
+meVE.LityGlory.poet = me.m12.d05_en_US_goadedes.meVE.LityGlory.poet
+meVE.LityGlory.mode = me.m12.d05_en_US_goadedes.meVE.LityGlory.mode
+meVE.LityGlory.melody = me.m12.d05_en_US_goadedes.meVE.LityGlory.melody
+meVE.LityGlory.incipit = me.m12.d05_en_US_goadedes.meVE.LityGlory.incipit
+meVE.LityGlory.text = me.m12.d05_en_US_goadedes.meVE.LityGlory.text
 
 meVE.LityBoth.mode = me.m12.d05_en_US_dedes.meVE.LityBoth.mode
 meVE.LityBoth.melody = me.m12.d05_en_US_dedes.meVE.LityBoth.melody
@@ -184,10 +184,10 @@ meMA.Kathisma31.melody = me.m12.d05_en_US_dedes.meMA.Kathisma31.melody
 meMA.Kathisma31.incipit = me.m12.d05_en_US_dedes.meMA.Kathisma31.incipit
 meMA.Kathisma31.text = me.m12.d05_en_US_dedes.meMA.Kathisma31.text
 
-meMA.Kathisma3T.mode = me.m12.d05_en_US_dedes.meMA.Kathisma3T.mode
-meMA.Kathisma3T.melody = me.m12.d05_en_US_dedes.meMA.Kathisma3T.melody
-meMA.Kathisma3T.incipit = me.m12.d05_en_US_dedes.meMA.Kathisma3T.incipit
-meMA.Kathisma3T.text = me.m12.d05_en_US_dedes.meMA.Kathisma3T.text
+meMA.Kathisma3T.mode = me.m12.d05_en_US_goadedes.meMA.Kathisma3T.mode
+meMA.Kathisma3T.melody = me.m12.d05_en_US_goadedes.meMA.Kathisma3T.melody
+meMA.Kathisma3T.incipit = me.m12.d05_en_US_goadedes.meMA.Kathisma3T.incipit
+meMA.Kathisma3T.text = me.m12.d05_en_US_goadedes.meMA.Kathisma3T.text
 
 meMA.PostGospelGlory.mode = me.m12.d05_en_US_dedes.meMA.PostGospelGlory.mode
 meMA.PostGospelGlory.melody = me.m12.d05_en_US_dedes.meMA.PostGospelGlory.melody
