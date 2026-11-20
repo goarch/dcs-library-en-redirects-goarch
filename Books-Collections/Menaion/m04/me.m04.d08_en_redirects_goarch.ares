@@ -34,10 +34,10 @@ meVE.Stichera02.melody = me.m04.d08_en_US_goadedes.meVE.Stichera02.melody
 meVE.Stichera02.incipit = me.m04.d08_en_US_goadedes.meVE.Stichera02.incipit
 meVE.Stichera02.text = me.m04.d08_en_US_goadedes.meVE.Stichera02.text
 
-meVE.Stichera03.mode = me.m04.d08_en_US_dedes.meVE.Stichera03.mode
-meVE.Stichera03.melody = me.m04.d08_en_US_barrett.meVE.Stichera03.melody
-meVE.Stichera03.incipit = me.m04.d08_en_US_barrett.meVE.Stichera03.incipit
-meVE.Stichera03.text = me.m04.d08_en_US_barrett.meVE.Stichera03.text
+meVE.Stichera03.mode = me.m04.d08_en_US_goadedes.meVE.Stichera03.mode
+meVE.Stichera03.melody = me.m04.d08_en_US_goadedes.meVE.Stichera03.melody
+meVE.Stichera03.incipit = me.m04.d08_en_US_goadedes.meVE.Stichera03.incipit
+meVE.Stichera03.text = me.m04.d08_en_US_goadedes.meVE.Stichera03.text
 
 meVE.SticTheotokion.mode = me.m04.d08_en_US_dedes.meVE.SticTheotokion.mode
 meVE.SticTheotokion.greekmelody = me.m04.d08_en_US_dedes.meVE.SticTheotokion.greekmelody
@@ -45,11 +45,11 @@ meVE.SticTheotokion.melody = me.m04.d08_en_US_dedes.meVE.SticTheotokion.melody
 meVE.SticTheotokion.incipit = me.m04.d08_en_US_dedes.meVE.SticTheotokion.incipit
 meVE.SticTheotokion.text = me.m04.d08_en_US_dedes.meVE.SticTheotokion.text
 
-meVE.SticStavrotheotokion.mode = me.m04.d08_en_US_dedes.meVE.SticStavrotheotokion.mode
-meVE.SticStavrotheotokion.greekmelody = me.m04.d08_en_US_dedes.meVE.SticStavrotheotokion.greekmelody
-meVE.SticStavrotheotokion.melody = me.m04.d08_en_US_barrett.meVE.SticStavrotheotokion.melody
-meVE.SticStavrotheotokion.incipit = me.m04.d08_en_US_barrett.meVE.SticStavrotheotokion.incipit
-meVE.SticStavrotheotokion.text = me.m04.d08_en_US_barrett.meVE.SticStavrotheotokion.text
+meVE.SticStavrotheotokion.mode = me.m04.d08_en_US_goadedes.meVE.SticStavrotheotokion.mode
+meVE.SticStavrotheotokion.greekmelody = me.m04.d08_en_US_goadedes.meVE.SticStavrotheotokion.greekmelody
+meVE.SticStavrotheotokion.melody = me.m04.d08_en_US_goadedes.meVE.SticStavrotheotokion.melody
+meVE.SticStavrotheotokion.incipit = me.m04.d08_en_US_goadedes.meVE.SticStavrotheotokion.incipit
+meVE.SticStavrotheotokion.text = me.m04.d08_en_US_goadedes.meVE.SticStavrotheotokion.text
 
 meVE.Apolytikion1ger.poet = me.m04.d08_en_US_dedes.meVE.Apolytikion1ger.poet
 meVE.Apolytikion1ger.mode = me.m04.d08_en_US_dedes.meVE.Apolytikion1ger.mode
